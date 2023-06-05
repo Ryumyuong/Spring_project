@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.complete {
+	text-align: right;
+	margin-top: 10px;
+	
+}
+
+.completement {
+	width: 60px;
+    text-align:center;
+    background-color: #d5fff8;
+    padding:10px;
+}
